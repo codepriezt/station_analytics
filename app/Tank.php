@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Tanks extends Model
+class Tank extends Model
 {
 
     //creating a tank ..eg['WAT01' , 'App\ReservedTank' , 'rectangular' ,1, 2]
